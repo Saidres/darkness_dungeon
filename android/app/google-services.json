@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460096271108",
+    "project_id": "darkness-dungeon",
+    "storage_bucket": "darkness-dungeon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460096271108:android:6ecb6aa03da23acfb99651",
+        "android_client_info": {
+          "package_name": "com.saidres.darkness_dungeon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa3HIXrKFw7YvcFoVjuanVAUfTmqQnPlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
